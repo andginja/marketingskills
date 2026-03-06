@@ -2,7 +2,7 @@
   "name": "marketingskills",
   "owner": {
     "name": "Andre Ginja",
-    "url": "https://thekeyword.io"
+    "url": "https://andginja.com"
   },
   "metadata": {
     "description": "Marketing skills for AI agents — SEO, GEO, conversion optimization, copywriting, paid ads, growth, and revenue operations",
@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "ag-marketing-skills",
+      "name": "marketing-skills",
       "description": "33 marketing skills for technical marketers and founders: SEO/GEO optimization, CRO, copywriting, cold email, AI search visibility, paid ads, ad creative, churn prevention, pricing strategy, referral programs, revenue operations, sales enablement, site architecture, and more",
       "source": "./",
       "strict": false,
